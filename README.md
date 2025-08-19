@@ -1,4 +1,4 @@
-🌟 Overview
+🌟 OVERVIEW
 
 Meetings, lectures, or long chats often produce lengthy transcripts. This project helps to:
 ✅ Upload / paste transcripts
@@ -7,7 +7,7 @@ Meetings, lectures, or long chats often produce lengthy transcripts. This projec
 
 This tool is perfect for students, professionals, and teams who want to save time and focus on key insights.
 
-✨ Features
+✨ FEATURES
 
 📤 Transcript Upload / Paste → Enter meeting notes or import text
 
@@ -35,13 +35,13 @@ View, edit, or download the summary
 
 🔹 Summary Example
 
-🛠️ Tech Stack
+🛠️ TECH STACK
 
 Frontend: HTML5, CSS3, JavaScript (Vanilla)
 
 Optional Backend (future): Node.js + OpenAI API
 
-📌 Roadmap
+📌ROADMAP
 
  Basic UI for transcript + summary
 
@@ -53,7 +53,7 @@ Optional Backend (future): Node.js + OpenAI API
 
  User authentication & cloud storage
 
-🤝 Contributing
+🤝CONTRIBUTING
 
 Contributions are welcome! 💡
 
@@ -65,7 +65,7 @@ Commit changes
 
 Push and open a PR 🚀
 
-📜 License
+📜 LICENSE
 
 This project is licensed under the MIT License.
 Free to use and modify with attribution.
